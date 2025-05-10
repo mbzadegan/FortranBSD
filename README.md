@@ -45,6 +45,6 @@ For uploading to the SourceForge via SFTP, we should upload it to this folder:
 
 ```/home/pfs/project/fortranbsd```
 
-It could be done by: 
+It could be done by the following command, but make sure to execute it in the folder of uploading files: 
 
 ```scp -r * mbzadegan@web.sourceforge.net:/home/pfs/project/fortranbsd/```
