@@ -49,6 +49,6 @@ It could be done by the following command, but make sure to execute it in the fo
 
 ```scp -r * mbzadegan@web.sourceforge.net:/home/pfs/project/fortranbsd/```
 
-FileZilla Web address server: sftp://web.sourceforge.net
+FileZilla Web address server:```sftp://web.sourceforge.net```
 
-FileZilla Web Files: /home/project-web/fortranbsd/htdocs
+FileZilla Web Files: ```/home/project-web/fortranbsd/htdocs```
